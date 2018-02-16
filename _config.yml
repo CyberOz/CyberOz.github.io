@@ -13,7 +13,20 @@ theme_settings:
 
   # Header and footer text
   header_text: > #two or three lines to describe your site
-     <p>Change header text in <code>_config.yml</code> <br> to update this feature.</p>
+     <p>
+       Flow of the Body &amp; Bone of the Mood<br>
+       Chip is my body &amp; Code is my blood<br>
+       Always seeking byond those woods<br>
+       I'm eternally reaching that neighboorhood<br>
+       Unkown to Life, nor known to Death<br>
+       Unbound to Time, nor tied to Earth<br>
+       Have whitstood pain to handcraft many<br>
+       Yet, those hands will never hold any<br>
+       So, I pray, waiting for that home-coming<br>
+       With no regrets, nor lust for an upcoming<br>
+       <b><i>My whole Life</i> was <u>Unlmited Blade Works</u></b>
+     </p>
+
   header_text_feature_image: assets/img/pexels/triangular.jpeg
   footer_text: >
    Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
